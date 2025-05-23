@@ -1,13 +1,19 @@
-# RustSec
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=RustSec&color=0:2A2A2A,100:1A1A1A&fontColor=E0E0E0&fontSize=70&desc=Next-Gen+OpSec+Scanner&descAlignY=68&animation=fadeIn&fontAlignY=45" alt="RustSec - Next-Gen OpSec Scanner">
 
-### Modern Operational Security Scanner Built in Rust
+<div align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; color: #0F0F0F !important; border: none !important; display: inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&duration=4000&pause=1000&color=909090&width=430&lines=Memory-Safe+Scanning;Tor+v3+Ready;10x+Faster+Performance;Community-Driven+Development" alt="Typing SVG" style="max-width: 100%; display: block; border: none !important; outline: none !important; vertical-align: middle;"/>
+  </a>
+</div>
 
-**🚧 In Development** | **OnionScan Successor** | **Tor v3 Ready**
+<br/>
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=&message=Rust&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Rust"/> <img src="https://img.shields.io/static/v1?label=&message=Tor&color=2A2A2A&logo=tor&logoColor=E0E0E0&style=flat-square" alt="Tor"/> <img src="https://img.shields.io/static/v1?label=&message=Async&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Async"/> <img src="https://img.shields.io/static/v1?label=&message=Memory+Safe&color=2A2A2A&logo=rust&logoColor=E0E0E0&style=flat-square" alt="Memory Safe"/>
 
-[![GitHub watchers](https://img.shields.io/github/watchers/chama-x/RustSec?style=social&label=Watch)](https://github.com/chama-x/RustSec/watchers)
-[![GitHub stars](https://img.shields.io/github/stars/chama-x/RustSec?style=social)](https://github.com/chama-x/RustSec/stargazers)
+<img src="https://img.shields.io/static/v1?label=&message=Postgres&color=383838&logo=postgresql&logoColor=E0E0E0&style=flat-square" alt="PostgreSQL"/> <img src="https://img.shields.io/static/v1?label=&message=SQLite&color=383838&logo=sqlite&logoColor=E0E0E0&style=flat-square" alt="SQLite"/> <img src="https://img.shields.io/static/v1?label=&message=CLI&color=383838&logo=gnu-bash&logoColor=E0E0E0&style=flat-square" alt="CLI"/>
 
-[🚀 Join Development](#development) • [💬 Discussions](https://github.com/chama-x/RustSec/discussions) • [📋 Roadmap](#roadmap)
+<img src="https://img.shields.io/static/v1?label=&message=GitHub&color=2A2A2A&logo=github&logoColor=E0E0E0&style=flat-square" alt="GitHub"/> <img src="https://img.shields.io/static/v1?label=&message=MIT&color=2A2A2A&logo=mit&logoColor=E0E0E0&style=flat-square" alt="MIT License"/> <img src="https://img.shields.io/static/v1?label=&message=Community&color=2A2A2A&logo=github&logoColor=E0E0E0&style=flat-square" alt="Community Driven"/>
+</div>
 
 ---
 
@@ -175,4 +181,18 @@ cargo build --release
 
 **Questions?** Open an [issue](https://github.com/chama-x/RustSec/issues) • **Ideas?** Start a [discussion](https://github.com/chama-x/RustSec/discussions)
 
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chama-x/chama-x/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&reversal=true&color=0:1A1A1A,50:2A2A2A,100:383838&fontColor=E0E0E0&fontSize=40&desc=Building+The+Future+Of+OpSec&animation=fadeIn&section=footer" alt="Building The Future Of OpSec">
 </div>
